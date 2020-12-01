@@ -4,8 +4,6 @@ library(tuneR)
 library(stringr)
 library(shinydashboard)
 
-
-setwd("C:/Users/Matt/Documents/Sound recordings")
 gl_auth("majesticCluster-2c47c76c005a.json")
 
 
